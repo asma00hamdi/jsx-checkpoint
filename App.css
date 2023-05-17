@@ -1,0 +1,31 @@
+
+.div {
+background-color: darkgray;
+
+
+}
+.photo {
+    margin-top: 30px;
+    margin-left: 600px;
+    margin-bottom: 30px ;
+    width:850px;
+    height: 700px;
+    border-radius:100px;
+    border-style: double;
+    border-color: rgb(160, 154, 163);
+    border-width: 10px;
+    
+}
+.name {
+margin-left: 80px;
+font-size: 50px;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;
+color: blueviolet;
+}
+.add {
+    color: rgb(108, 108, 158);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 1500px;
+}
